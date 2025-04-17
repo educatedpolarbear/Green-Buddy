@@ -144,7 +144,7 @@
 
 If you encounter any bugs or issues while using the application, please report them by sending an email to:
 
-trung.dangquoc@hcmut.edu.vn
+terrorblade7227@gmail.com
 
 Made with claude, v0 and a lot of coffee ☕
 
