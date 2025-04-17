@@ -1,0 +1,12 @@
+beautifulsoup4==4.13.3
+email_validator==2.1.0.post1
+eventlet==0.39.1
+Flask==3.1.0
+Flask_Cors==4.0.0
+Flask_SocketIO==5.3.6
+mysql-connector-python==8.0.33
+PyJWT==2.10.1
+python-dotenv==1.1.0
+Requests==2.32.3
+SQLAlchemy==2.0.38
+Werkzeug==3.1.3
